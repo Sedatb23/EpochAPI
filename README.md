@@ -1,2 +1,2 @@
-# EpochAPI
-.NET Core API using Pomelo Entity Framework and Fluent Validations
+# EpochApi
+A base .NET Core API using EF Core and FluentValidations 
